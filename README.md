@@ -1,7 +1,6 @@
-* Login authentication form with all possible checks and security features.
+* Signup and Login functionality using Supabase NextAuth. 
+Includes all possile security checks and authentication.
 
-Username :  admin@email.com
-Password :  Admin@12345
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
